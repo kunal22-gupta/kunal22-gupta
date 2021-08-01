@@ -5,5 +5,4 @@
 - 📫 How to reach me 
     Email: kunal22.10.2002@gmail.com
     LinkedIn: https://www.linkedin.com/in/kunal-gupta-6200b41b6
-    Instagram: _kunalgupta__
    
