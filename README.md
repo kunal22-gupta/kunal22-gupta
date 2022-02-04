@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @phantom-18, a student who has just started to explore the field of CS.
+- 👋 Hi, I’m Kunal, a student who has just started to explore the field of CS. I am in my freshman year pursuing my bachelor's degree in computer application.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structures and Algorithm
+- 🌱 I am learning Data Structures and Algorithm in Java and has just started with front end development.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 Ways to reach me 
     - Email: kunal22.10.2002@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/kunal-gupta-6200b41b6
-   
+    - LinkedIn: <https://www.linkedin.com/in/kunal-gupta-6200b41b6>
+    - Twitter: <https://twitter.com/_kunalgupta__>
