@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I’m a student who is pursuing my career as a software developer. The web fascinates me the most so I started learning web development. With some good skills I can create beautiful looking websites with a good UI.
+I’m a student who is pursuing my career as a software developer. The web fascinates me the most so I started learning web development. I am a front-end developer so far and can create some beautiful looking websites.
 
-I am a curious person and love to explore the field of computer science. The blockchain technology and the web 3.0 catches my interest and I plan to learn more about it. I love participating in hackathons and network with some amazing folks. Feel free to DM me anytime.   
+I am a curious person and love to explore new things. I sketch as a hobby and like participating in hackathons and network with some amazing folks. Feel free to DM me anytime.   
   
 
 <br/>  
@@ -26,13 +26,13 @@ I am a curious person and love to explore the field of computer science. The blo
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on building public speaking skills of folks who are interested through my [twitter spaces](https://twitter.com/_kunalgupta__/status/1600757647807954944)  
+- 🔭 I’m currently working on sharpening my skills as a front end developer with creating some projects.
   
 
-- 🌱 I’m currently learning Python and it's libraries used in data science  
+- 🌱 I’m currently learning React.
   
 
-- 🙌 I am open to collaborate on projects.   
+- 🙌 I am open to network and collaborate on projects.   
   
 
 - ⚡ Fun fact: I don't drink coffee as a developer  
